@@ -3,3 +3,5 @@ A repository created for testing and learning DevOps a methodology that integrat
 
 
 подключение произошло =3
+
+тест конфликта на ветке feature/readme
