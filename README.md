@@ -6,6 +6,6 @@ A repository created for testing and learning DevOps a methodology that integrat
 
 
 обновление веток
-=======
+
 если вы видете сообщение значит ветк где о есть. точно есть 
 
