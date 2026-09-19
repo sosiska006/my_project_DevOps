@@ -12,3 +12,5 @@ A repository created for testing and learning DevOps a methodology that integrat
 
 
 тест конфликта на ветке feature/readme
+
+проверка с ноутбука
